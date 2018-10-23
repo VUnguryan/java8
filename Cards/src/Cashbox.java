@@ -3,7 +3,7 @@
  * @author Zablov Sergey
  *
  */
-public class Ñashbox {
+public class Cashbox {
 	private int totalMony;
 	
 
